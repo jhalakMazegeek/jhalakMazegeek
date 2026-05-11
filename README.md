@@ -2,8 +2,8 @@
 <h3 align="center">Senior Backend Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashik4715&label=Profile%20views&color=0e75b6&style=flat-square" alt="ashik4715" />
-  <a href="https://github.com/ashik4715"><img src="https://img.shields.io/github/followers/ashik4715?label=Follow&style=social" alt="Follow"></a>
+  <img src="https://komarev.com/ghpvc/?username=jhalakMazegeek&label=Profile%20views&color=0e75b6&style=flat-square" alt="jhalakMazegeek" />
+  <a href="https://github.com/jhalakMazegeek"><img src="https://img.shields.io/github/followers/jhalakMazegeek?label=Follow&style=social" alt="Follow"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 I am a **Senior Backend Engineer** at **Wegro Global** with over 6 years of experience building scalable web and mobile applications. I specialize in backend architecture, fintech solutions, and system optimization.
 
-- 🔭 **Currently focused on:** [Sprinkler Response Time Project](https://github.com/ashik4715/sprinkler-project)
+- 🔭 **Currently focused on:** [Sprinkler Response Time Project](https://github.com/jhalakMazegeek/sprinkler-project)
 - 🌱 **Learning:** Go, Rust, and Playwright for E2E testing.
 - ⚡ **Fun Fact:** I love to cook and play competitive PC games.
 - 📄 **Resume:** [View my experiences here](https://drive.google.com/file/d/1_jx9TyMmbcsDEwYSptIU_BvExBdMmk56/view)
@@ -40,23 +40,23 @@ I am a **Senior Backend Engineer** at **Wegro Global** with over 6 years of expe
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://personal-trophy.vercel.app/api?username=ashik4715&theme=neon&no-bg=false&no-frame=false&margin-w=4" alt="ashik4715 trophies" />
+  <img src="https://personal-trophy.vercel.app/api?username=jhalakMazegeek&theme=neon&no-bg=false&no-frame=false&margin-w=4" alt="jhalakMazegeek trophies" />
 </p>
 
 ### 📈 Activity & Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashik4715&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashik4715&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jhalakMazegeek&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhalakMazegeek&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashik4715&theme=tokyonight" alt="ashik4715 streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jhalakMazegeek&theme=tokyonight" alt="jhalakMazegeek streak" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://ashik4715.github.io/myportfolio/">Portfolio</a> • 
+  <a href="https://jhalakMazegeek.github.io/myportfolio/">Portfolio</a> • 
   <a href="https://www.fiverr.com/ashikurjhalak">Fiverr</a> • 
   <a href="https://medium.com/@jhalak.mazegeek">Blog</a>
 </p>
